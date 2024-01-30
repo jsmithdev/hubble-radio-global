@@ -8,7 +8,7 @@
     "name": "radio-global",
     "description": "Listen to hand picked radio from around the world",
     "site": "https://github.com/jsmithdev/hubble-radio-global",
-    "icon": "https://raw.githubusercontent.com/jsmithdev/hubble-radio-global/main/resources/icon.svg?raw=true",
+    "icon": "http://raw.githubusercontent.com/jsmithdev/hubble-radio-global/main/resources/icon.svg?raw=true",
     "executable": "https://unpkg.com/hubble-radio-global@0.0.2/build/lit.js"
   },
   "scripts": {
