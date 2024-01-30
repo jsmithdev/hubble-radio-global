@@ -1,6 +1,6 @@
 {
   "name": "hubble-radio-global",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "A hubble to: Listen to hand picked radio from around the world",
   "main": "build/lit.js",
   "author": "Jamie Smith",
@@ -9,7 +9,7 @@
     "description": "Listen to hand picked radio from around the world",
     "site": "https://github.com/jsmithdev/hubble-radio-global",
     "icon": "https://raw.githubusercontent.com/jsmithdev/hubble-radio-global/main/resources/icon.svg?raw=true",
-    "executable": "https://unpkg.com/hubble-radio-global@0.0.1/build/lit.js"
+    "executable": "https://unpkg.com/hubble-radio-global@0.0.2/build/lit.js"
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
