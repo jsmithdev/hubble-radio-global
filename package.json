@@ -9,7 +9,7 @@
     "description": "Listen to hand picked radio from around the world",
     "site": "https://github.com/jsmithdev/hubble-radio-global",
     "icon": "https://raw.githubusercontent.com/jsmithdev/hubble-radio-global/main/resources/icon.svg?raw=true",
-    "executable": "https://unpkg.com/hubble-radio-global@0.0.5/build/lit.js"
+    "executable": "https://unpkg.com/hubble-radio-global@0.0.4/build/lit.js"
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
