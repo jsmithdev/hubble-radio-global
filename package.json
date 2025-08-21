@@ -1,6 +1,6 @@
 {
   "name": "hubble-radio-global",
-  "version": "0.0.4",
+  "version": "0.0.5",
   "description": "A hubble to: Listen to hand picked radio from around the world",
   "main": "build/lit.js",
   "author": "Jamie Smith",
